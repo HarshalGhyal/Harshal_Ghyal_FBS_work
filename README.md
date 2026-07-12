@@ -5,6 +5,6 @@ Welcome to Harshal_Ghyal_FBS_Work, my personal learning repository that document
 
 💻 Focus Areas: Python Full Stack Development, Data Science, AI/ML, and Backend Development
 
-📂 What's Here: A structured collection of my coding exercises, professional training tasks, and practical project builds (like IoT-based recommendation systems).
+📂 What's Here: A structured collection of my coding exercises, professional training tasks, and practical project builds (like AI-based recommendation systems).
 
 🚀 Goal: Applying academic theory to real-world technical applications and scaling high-growth projects.
