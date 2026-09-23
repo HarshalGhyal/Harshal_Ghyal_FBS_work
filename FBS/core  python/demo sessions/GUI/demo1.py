@@ -1,0 +1,22 @@
+import tkinter as tk
+root=tk.Tk()
+root.title('This is my app')
+root.geometry('600x500')
+i=tk.Label(root,text='This is my first Gui',font=('Goudy Stout',20),bg='Red',fg='yellow') 
+y=tk.Label(root,text='This is my first Gui',font=('Goudy Stout',20),bg='Red',fg='yellow') 
+# k=tk.Label(root,text='This is my first Gui',font=('Goudy Stout',20),bg='Red',fg='yellow') 
+# z=tk.Label(root,text='This is my first Gui',font=('Goudy Stout',20),bg='Red',fg='yellow') 
+# i.pack(side='left')
+# y.pack(side='right')
+# k.pack(side='top')
+# z.pack(side='bottom')
+# i.grid(row=1,column=1)
+# y.grid(row=1,column=2)
+e=tk.Entry(root)
+e.pack()
+def show():
+    print(e.get())
+btn=tk.Button(root,text='Submit',command=show) 
+btn.pack()   
+root.mainloop()
+
