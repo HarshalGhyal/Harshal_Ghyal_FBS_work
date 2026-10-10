@@ -1,0 +1,2 @@
+2. Create another package “TY” which has a class TYMarks (Theory,
+Practical).

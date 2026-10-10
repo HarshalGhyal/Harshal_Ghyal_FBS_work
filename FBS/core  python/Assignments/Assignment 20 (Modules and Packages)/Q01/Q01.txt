@@ -1,0 +1,2 @@
+1. create a package “SY” which has class SYMARKS (Computer Total,
+MathsTotal, ElectronicsTotal).
